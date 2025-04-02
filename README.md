@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-profile-trophy.vercel.app/?username=RoastyToastyy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](?quote="Not all those who wander are lost")
+[![?quote="Not all those who wander are lost"](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)]()
 
 ---
 [![](https://visitcount.itsvg.in/api?id=RoastyToastyy&icon=9&color=10)](https://visitcount.itsvg.in)
