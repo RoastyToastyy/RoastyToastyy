@@ -1,5 +1,5 @@
 # About me!
-#### My name is Fatima Haque, I am 18 years old and I am passionate about A LOT OF THINGS! 
+#### My name is Fatima Haque, I am 19 years old and I am passionate about A LOT OF THINGS! 
 >_"Not all those who wander are lost"_ - *J. R. R. Tolkien*
 
 ### Coding
