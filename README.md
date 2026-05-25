@@ -33,11 +33,13 @@ Let's talk! Feel free to reach out to me
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-#  GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RoastyToastyy&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RoastyToastyy&theme=calm_pink&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RoastyToastyy&theme=calm_pink&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+# GitHub Stats:
 
+![Stats](https://github-readme-stats.vercel.app/api?username=RoastyToastyy&theme=calm_pink&hide_border=true&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RoastyToastyy&theme=calm_pink&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoastyToastyy&theme=calm_pink&hide_border=true&layout=compact)
 ##  GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RoastyToastyy&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
