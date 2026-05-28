@@ -1,5 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=F7E50C&width=435&lines=Hey+I+am+Fatima!+%3A))](https://git.io/typing-svg)
+
 # About me!
-#### My name is Fatima Haque, I am a sophmore studying computer science and I am passionate about A LOT OF THINGS! 
+#### I am a sophmore studying computer science and I am passionate about A LOT OF THINGS! 
 >_"Not all those who wander are lost"_ - *J. R. R. Tolkien*
 
 ### Coding
